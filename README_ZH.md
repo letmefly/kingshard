@@ -64,6 +64,8 @@ kingshard是一个由Go开发高性能MySQL Proxy项目，kingshard在满足基�
 
 [12.Kinghshard接入prometheus](./doc/KingDoc/prometheus.md)
 
+[13.kingshard视频教程](https://www.imooc.com/learn/1078)
+
 ### kingshard架构与设计
 
 [1.kingshard架构设计和功能实现](./doc/KingDoc/architecture_of_kingshard_CN.md)
